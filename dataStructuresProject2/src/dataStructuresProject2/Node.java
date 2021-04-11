@@ -6,7 +6,7 @@ public class Node {
 	char data;
 	
 	
-	//constructor for second operand, does not hold a operator
+	//constructor 
 	public Node(char dataValue) {
 		next = null;
 		data = dataValue;
